@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
 
-copied from online source.
-This is a simple chatbot file.
-"""
 
 import nltk
 import numpy as np
